@@ -1,7 +1,8 @@
 # 欢迎访问我的 GitHub 主页 👋
 
 ## 我的技术栈
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cpp.svg" width="20" alt="C++">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cplusplus.svg" width="20" alt="C++">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/java.svg" width="20" alt="Java">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" width="20" alt="Python">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" width="20" alt="JavaScript">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg" width="20" alt="Git">
